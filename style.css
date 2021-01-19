@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(53, 51, 51);
+}
+nav{
+    text-align:right;
+    word-spacing: 1em;
+    background-color: darkslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-weight: 100;
+    padding: 1ex;
+}
+button:hover{background-color:dimgrey;}
+a:hover{color: lightsalmon;}
+a{
+    color: chocolate;
+}
+button{
+    background-color: burlywood;
+}
+#heading{
+    text-align: center;
+    color:black;
+    text-decoration:underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    color: gray;
+    background-color: black;
+    
+}
+h1,h2,h3{
+    text-align: center;
+    text-decoration: solid;
+    color:lightslategrey;
+    font-family: 'Sofia', cursive;
+    font-size: 5ex;
+    text-decoration: underline;
+
+}
+span{
+    color: aquamarine;
+    font-size: 3ex;
+}
+#intro{
+    color: rgb(24, 23, 23);
+    background-color:indianred;
+    font-size: large;
+}
+p{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: large;
+}
+img,video{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+table{
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    color: indianred;
+    background-color:black;
+}
+form{color: olive;
+    
+}
+#foot{
+    background-color: rgb(235, 77, 19);
+    padding: 1ex;
+    margin: 3%;
+}
+
