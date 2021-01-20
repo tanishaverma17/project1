@@ -1,74 +1,77 @@
-body{
-    background-color: rgb(53, 51, 51);
+body {
+  background-color: rgb(53, 51, 51);
 }
-nav{
-    text-align:right;
-    word-spacing: 1em;
-    background-color: darkslategrey;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: medium;
-    font-weight: 100;
-    padding: 1ex;
+nav {
+  text-align: right;
+  word-spacing: 1em;
+  background-color: darkslategrey;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: medium;
+  font-weight: 100;
+  padding: 1ex;
 }
-button:hover{background-color:dimgrey;}
-a:hover{color: lightsalmon;}
-a{
-    color: chocolate;
+button:hover {
+  background-color: dimgrey;
 }
-button{
-    background-color: burlywood;
+a:hover {
+  color: lightsalmon;
 }
-#heading{
-    text-align: center;
-    color:black;
-    text-decoration:underline;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 200;
-    color: gray;
-    background-color: black;
-    
+a {
+  color: chocolate;
 }
-h1,h2,h3{
-    text-align: center;
-    text-decoration: solid;
-    color:lightslategrey;
-    font-family: 'Sofia', cursive;
-    font-size: 5ex;
-    text-decoration: underline;
-
+button {
+  background-color: burlywood;
 }
-span{
-    color: aquamarine;
-    font-size: 3ex;
+#heading {
+  text-align: center;
+  color: black;
+  text-decoration: underline;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 200;
+  color: gray;
+  background-color: black;
 }
-#intro{
-    color: rgb(24, 23, 23);
-    background-color:indianred;
-    font-size: large;
+h1,
+h2,
+h3 {
+  text-align: center;
+  text-decoration: solid;
+  color: lightslategrey;
+  font-family: "Sofia", cursive;
+  font-size: 5ex;
+  text-decoration: underline;
 }
-p{
-    font-family: 'Fjalla One', sans-serif;
-    font-size: large;
+span {
+  color: aquamarine;
+  font-size: 3ex;
 }
-img,video{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-
+#intro {
+  color: rgb(24, 23, 23);
+  background-color: indianred;
+  font-size: large;
 }
-table{
-    margin-top: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    color: indianred;
-    background-color:black;
+p {
+  font-family: "Fjalla One", sans-serif;
+  font-size: large;
 }
-form{color: olive;
-    
+img,
+video {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
-#foot{
-    background-color: rgb(235, 77, 19);
-    padding: 1ex;
-    margin: 3%;
+table {
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  color: indianred;
+  background-color: black;
 }
-
+form {
+  color: olive;
+}
+#foot {
+  background-color: rgb(235, 77, 19);
+  padding: 1ex;
+  margin: 3%;
+}
