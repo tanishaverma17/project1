@@ -30,25 +30,25 @@ button {
   font-weight: 200;
   color: gray;
   background-color: black;
+  padding: 1ex;
+}
+#year {
+  background-image: url(https://www.tellyupdates.com/wp-content/uploads/2020/12/2020-2.jpg);
 }
 h1,
 h2,
 h3 {
-  text-align: center;
+  text-align: start;
   text-decoration: solid;
-  color: lightslategrey;
-  font-family: "Sofia", cursive;
+  color: rgb(180, 252, 224);
   font-size: 5ex;
   text-decoration: underline;
 }
-span {
-  color: aquamarine;
-  font-size: 3ex;
-}
+
 #intro {
-  color: rgb(24, 23, 23);
   background-color: indianred;
   font-size: large;
+  border-style: solid;
 }
 p {
   font-family: "Fjalla One", sans-serif;
@@ -59,6 +59,14 @@ video {
   display: block;
   margin-right: auto;
   margin-left: auto;
+}
+span {
+  color: rgb(192, 164, 71);
+  font-size: 3ex;
+}
+.abc {
+  text-align: center;
+  color: rgb(150, 148, 146);
 }
 table {
   margin-top: 2em;
